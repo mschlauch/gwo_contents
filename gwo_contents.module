@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the GWO-Contents feature.
+ */
+
+include_once 'gwo_contents.features.inc';
